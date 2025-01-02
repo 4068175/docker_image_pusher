@@ -5,4 +5,4 @@ docker.1ms.run/xhofe/alist:latest
 docker.1ms.run/luomubiji/ql2.10.13
 docker.1ms.run/easychen/checkchan:latest
 docker.1ms.run/easychen/cookiecloud:latest
-docker.1ms.run/easychen/ai-rss-server:latest
+docker.1ms.run/easychen/ai-rss:latest
