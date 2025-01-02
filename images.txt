@@ -1,6 +1,3 @@
 xhofe/alist:latest
 teamspeak:latest
 ch18/baota:lnmp
-easychen/checkchan:latest
-easychen/ai-rss-server:latest
-easychen/cookiecloud:latest
